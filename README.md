@@ -13,4 +13,4 @@
  3. Hasil dari Enkripsi
    <img src="hasil.png" img>
    
-   Untuk Script codingnya ada di bawah file
+   Untuk Script Codingnya Ada Di Bawah File
